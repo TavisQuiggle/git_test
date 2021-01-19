@@ -1,1 +1,1 @@
-# git_test
+Initial test of using git both locally and to push to GitHub.
